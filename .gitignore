@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/Source_Classification_Code.rds
+data/summarySCC_PM25.rds
+ExData-Project2.Rproj
